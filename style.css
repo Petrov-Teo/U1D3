@@ -1,4 +1,13 @@
 #logo {text-align: center;display: block;}
-.ring{background-color: blanchedalmond; align-content: center;} 
-p {text-align: center; margin-left:  2em, ;}
-body mar
+
+.ring{background-color: #ffebcd; align-content: center;} 
+
+p {text-align: center;}
+
+.titolo1 {text-align: center; }
+
+.articolo2 > p {margin-left: 16em; margin-right: 16em; text-align: center;}
+
+.immagine1 {text-align: center;display: block; border-radius: 10px 10px 10px 10px; }
+
+.fm {color: rgb(172, 161, 161);}
