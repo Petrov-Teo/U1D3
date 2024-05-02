@@ -1,13 +1,76 @@
-#logo {text-align: center;display: block;}
+main {
+  display: block;
+  margin: auto;
+  text-align: justify;
+  margin-left: 16em;
+  margin-right: 16em;
+}
+#logo {
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
 
-.ring{background-color: #ffebcd; align-content: center;} 
+.ring {
+  background-color: #ffebcd;
+  align-content: center;
+}
+.Part {
+  text-align: center;
+}
+.titolo1 {
+  text-align: center;
+}
+.articolo2 {
+  text-align: center;
+}
+.immagine1 {
+  text-align: center;
+}
 
-p {text-align: center;}
-
-.titolo1 {text-align: center; }
-
-.articolo2 > p {margin-left: 16em; margin-right: 16em; text-align: center;}
-
-.immagine1 {text-align: center;display: block; border-radius: 10px 10px 10px 10px; }
-
-.fm {color: rgb(172, 161, 161);}
+.fm {
+  color: grey;
+}
+.h4 {
+  color: red;
+  font-style: oblique;
+  padding: 0;
+  border: 0;
+  margin-bottom: 0;
+}
+.articolo3 {
+  padding-top: 0;
+  border-top: 0;
+  margin-top: 0;
+}
+.titoloingredients {
+  border-bottom: solid;
+  border-bottom-color: #00ffff;
+  margin-top: 3em;
+  padding-bottom: 1em;
+}
+.collegamenti {
+  border-left: solid;
+  border-left-color: yellow;
+}
+ul {
+  font-weight: bold;
+  padding-left: 0;
+}
+li {
+  padding-left: 2em;
+}
+.method {
+  border-bottom: solid;
+  border-bottom-color: #00ffff;
+  margin-top: 3em;
+  padding-bottom: 1em;
+}
+.make {
+  padding-left: 2em;
+}
+.articolo4 {
+  padding-left: 2.5em;
+}
